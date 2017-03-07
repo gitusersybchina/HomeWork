@@ -1,0 +1,1 @@
+÷¥––≤Ω÷Ë£∫mvn exec:java -Dexec.mainClass="com.hand.syb.day03.MyDownload"
